@@ -1,3 +1,12 @@
+# Run the plugin
+
+1. build the project 'yarn build'
+2. open google chrome
+3. click the exstensions icon on the toolbar
+4. click manage extensions
+5. click load unpacked and choose the build directory that was generated from step 1
+6. run the extension
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
